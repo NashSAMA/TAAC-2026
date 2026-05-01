@@ -9,6 +9,7 @@ outputs/
 *.onnx
 *.tar.gz
 *.zip
+*.codx
 
 .DS_Store
 .vscode/
